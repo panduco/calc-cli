@@ -1,0 +1,4 @@
+python calc.py 100 % 3 = Error: Format must be 'Num Op Num' or 'Func Num' (e.g., 5 + 5 or sqrt 16)
+# Result: 1 = Error: Invalid numbers provided.
+100%3 = Error: Format must be 'Num Op Num' or 'Func Num' (e.g., 5 + 5 or sqrt 16)
+100 % 3 = 1
